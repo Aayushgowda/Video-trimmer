@@ -12,7 +12,7 @@ A lightweight and user-friendly video trimmer built using HTML, JavaScript, and 
 
 ## Demo
 
-You can try the live demo here: [GitHub Pages Link]
+You can try the live demo here: [ https://aayushgowda.github.io/Video-trimmer/]
 
 ## Technologies Used
 
