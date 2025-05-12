@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Video TRIMMER</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>VIDEO TRIMMER</VIDeo></h1>
+
+  <input type="file" id="videoInput" accept="video/*" />
+  
+  <video id="videoPlayer" controls></video>
+
+  <div class="controls">
+    <label>Start Time (sec): <input type="number" id="startTime" min="0" value="0"></label>
+    <label>End Time (sec): <input type="number" id="endTime" min="0" value="10"></label>
+    <button id="trimBtn">Trim Video</button>
+  </div>
+  
+  <script src="script.js"></script>
+
+
+
+
+
+</body>
+</html>
